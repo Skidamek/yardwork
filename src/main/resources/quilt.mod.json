@@ -9,7 +9,8 @@
 			"description": "Yardwork tools in Minecraft!",
 			"contributors": {
 				"woodiertexas": "Author",
-				"Carter": "Model/Texture Artist"
+				"Carter": "Model/Texture Artist",
+				"Skidam": "1.18 & Fabric port"
 			},
 			"contact": {
 				"homepage": "https://example.com/",
@@ -34,7 +35,7 @@
 			},
 			{
 				"id": "minecraft",
-				"versions": ">=1.19.2"
+				"versions": ">=1.18"
 			}
 		]
 	}
